@@ -4,4 +4,4 @@ pillow
 openai
 transformers
 torch
-pypdf2  # or PyMuPDF via 'fitz'
+pymupdf
